@@ -80,3 +80,19 @@
 5. How do you find the sum of all elements in a list?
 
 ---
+### 📌 24-09-2026 — Day 09
+
+1. How can u iterate over the key - value in a dict?
+2. What is the difference between dict.keys() and dict.values()?
+3. How do you merge two dictionaries?
+4. How do you create a dict from two lists , where one list is keys and another list is values?
+5. Why do u use dictionary?
+
+---
+### 📌 25-09-2026 — Day 10
+
+1. What is the difference between remove() and discard() methods?
+2. How do you find union of two sets?
+3. How do you find intersection of two sets?
+4. How do you find difference between two sets?
+5. How do you find symmetric difference between two sets?
